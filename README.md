@@ -2,11 +2,11 @@
 This is a simple web application built with Express.js that allows users to interact with a secrets API. Users can perform CRUD operations (Create, Read, Update, Delete) on secrets stored in the API by sending HTTP requests through the provided form.
 
 ## Features
-GET Secret: Retrieves a secret from the API based on the provided ID.
-POST Secret: Creates a new secret in the API.
-PUT Secret: Updates an existing secret in the API.
-PATCH Secret: Partially updates an existing secret in the API.
-DELETE Secret: Deletes a secret from the API based on the provided ID.
+* GET Secret: Retrieves a secret from the API based on the provided ID.
+* POST Secret: Creates a new secret in the API.
+* PUT Secret: Updates an existing secret in the API.
+* PATCH Secret: Partially updates an existing secret in the API.
+* DELETE Secret: Deletes a secret from the API based on the provided ID.
 ## Setup
 Clone the repository: git clone https://github.com/MausamGaikwad/API-s-Express-Secrets-App.git
 Install dependencies: npm install
