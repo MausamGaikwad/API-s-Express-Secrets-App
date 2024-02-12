@@ -8,10 +8,10 @@ This is a simple web application built with Express.js that allows users to inte
 * PATCH Secret: Partially updates an existing secret in the API.
 * DELETE Secret: Deletes a secret from the API based on the provided ID.
 ## Setup
-1. Clone the repository: git clone https://github.com/MausamGaikwad/API-s-Express-Secrets-App.git
-2. Install dependencies: npm install
-3. Set your bearer token: Replace yourBearerToken in app.js with your actual bearer token obtained from the API provider.
-4. Run the server: npm start
+1. Clone the repository: `git clone https://github.com/MausamGaikwad/API-s-Express-Secrets-App.git`
+2. Install dependencies: `npm install`
+3. Set your bearer token: Replace `yourBearerToken` in `index.js` with your actual bearer token obtained from the API provider.
+4. Run the server: `npm start`
 ## Usage
 1. Access the application through a web browser at http://localhost:3000.
    
