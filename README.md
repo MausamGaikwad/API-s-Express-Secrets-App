@@ -20,11 +20,11 @@ This is a simple web application built with Express.js that allows users to inte
   * Secret: The content of the secret (required for POST and PUT operations).
   * Score: The score associated with the secret (optional).
 3. Click on the appropriate button to perform the desired operation:
-GET: Retrieves the secret associated with the provided ID.
-POST: Creates a new secret with the provided details.
-PUT: Updates the secret associated with the provided ID with the new details.
-PATCH: Partially updates the secret associated with the provided ID.
-DELETE: Deletes the secret associated with the provided ID.
+   * GET: Retrieves the secret associated with the provided ID.
+   * POST: Creates a new secret with the provided details.
+   * PUT: Updates the secret associated with the provided ID with the new details.
+   * PATCH: Partially updates the secret associated with the provided ID.
+   * DELETE: Deletes the secret associated with the provided ID.
 4. View the response in the response area below the form.
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
