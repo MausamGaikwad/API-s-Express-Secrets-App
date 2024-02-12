@@ -15,9 +15,9 @@ This is a simple web application built with Express.js that allows users to inte
 ## Usage
 1. Access the application through a web browser at http://localhost:3000.
 2. Fill in the form with the required details:
-Id: The ID of the secret (required for all operations except POST).
-Secret: The content of the secret (required for POST and PUT operations).
-Score: The score associated with the secret (optional).
+  * Id: The ID of the secret (required for all operations except POST).
+  * Secret: The content of the secret (required for POST and PUT operations).
+  * Score: The score associated with the secret (optional).
 3. Click on the appropriate button to perform the desired operation:
 GET: Retrieves the secret associated with the provided ID.
 POST: Creates a new secret with the provided details.
