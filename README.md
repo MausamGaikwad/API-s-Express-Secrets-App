@@ -13,8 +13,7 @@ This is a simple web application built with Express.js that allows users to inte
 3. Set your bearer token: Replace `yourBearerToken` in `index.js` with your actual bearer token obtained from the API provider.
 4. Run the server: `npm start`
 ## Usage
-1. Access the application through a web browser at `http://localhost:3000`.
-   
+1. Access the application through a web browser at `http://localhost:3000`.   
 2. Fill in the form with the required details:
    * Id: The ID of the secret (required for all operations except POST).
    * Secret: The content of the secret (required for POST and PUT operations).
