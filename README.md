@@ -1,4 +1,4 @@
-## Express Secrets App
+# Express Secrets App
 This is a simple web application built with Express.js that allows users to interact with a secrets API. Users can perform CRUD operations (Create, Read, Update, Delete) on secrets stored in the API by sending HTTP requests through the provided form.
 
 ## Features
