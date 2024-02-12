@@ -13,18 +13,18 @@ This is a simple web application built with Express.js that allows users to inte
 3. Set your bearer token: Replace yourBearerToken in app.js with your actual bearer token obtained from the API provider.
 4. Run the server: npm start
 ## Usage
-Access the application through a web browser at http://localhost:3000.
-Fill in the form with the required details:
+1. Access the application through a web browser at http://localhost:3000.
+2. Fill in the form with the required details:
 Id: The ID of the secret (required for all operations except POST).
 Secret: The content of the secret (required for POST and PUT operations).
 Score: The score associated with the secret (optional).
-Click on the appropriate button to perform the desired operation:
+3. Click on the appropriate button to perform the desired operation:
 GET: Retrieves the secret associated with the provided ID.
 POST: Creates a new secret with the provided details.
 PUT: Updates the secret associated with the provided ID with the new details.
 PATCH: Partially updates the secret associated with the provided ID.
 DELETE: Deletes the secret associated with the provided ID.
-View the response in the response area below the form.
+4. View the response in the response area below the form.
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
