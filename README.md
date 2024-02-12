@@ -14,6 +14,7 @@ This is a simple web application built with Express.js that allows users to inte
 4. Run the server: npm start
 ## Usage
 1. Access the application through a web browser at http://localhost:3000.
+   
 2. Fill in the form with the required details:
   * Id: The ID of the secret (required for all operations except POST).
   * Secret: The content of the secret (required for POST and PUT operations).
