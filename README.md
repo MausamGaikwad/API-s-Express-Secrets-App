@@ -27,7 +27,7 @@ This is a simple web application built with Express.js that allows users to inte
    * DELETE: Deletes the secret associated with the provided ID.
 4. View the response in the response area below the form.
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 MAUSAM GAIKWAD
